@@ -120,6 +120,6 @@ Daily Delhi Climate Dataset
        ▼    ▼            ▼
    Errors  Feature    Future
   Analysis Importance Forecast
-## Disclaimer
 
+**Disclaimer**
 This project is developed for academic and research purposes. Forecasting performance is specific to the dataset, preprocessing pipeline, model architectures, and experimental configuration used in this study.
